@@ -2,8 +2,7 @@
 
 A lightweight Retrieval-Augmented Generation (RAG) chatbot that lets you upload your own PDFs or notes and ask questions grounded in that content. Built as a weekend project — no GPU, no local storage burden, and free to run.
 
-![Gradio chat interface](./screenshot.png)
-*Replace `screenshot.png` in this folder with your own Gradio screenshot — see "Adding the screenshot" below.*
+![Gradio chat interface](./gradio.png)
 
 ---
 
